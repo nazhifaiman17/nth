@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="flowers.css">
+    <title>Flower</title>
+</head>
+<body>
+    <div class="container">
+        <svg id="flower-frame" version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 641.5 637.3">
+            <style type="text/css"></style>
+            <defs></defs>
+            <g id="Footer group_1_">
+                <path id="PinkFlowerGroup" />
+                <path id="BaseGroup" />
+                <path id="LeafGroup" />
+                <path id="Stroke" />
+                <g id="BudGroup">
+                    <g id="Bud8_1">
+                        <path id="Bud" />
+                    </g>
+                </g>
+            </g>
+        </svg>
+    </div>
+</body>
+</html>
